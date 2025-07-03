@@ -14,6 +14,9 @@ This project is an interactive HR Analytics dashboard built in *Power BI, using 
 - Interactive Filters, Tooltips, Slicers
 - Visual Types: Cards, Bar Charts, Donuts, Matrix, Scatter, Line+Column Charts
 
+
+---
+
   ## Dashboard Overview
 
 The dashboard consists of *5 interactive pages*:
@@ -23,21 +26,30 @@ The dashboard consists of *5 interactive pages*:
 - Total employees, active vs attrition count
 - Overall job satisfaction & monthly income metrics
 
+---
+
 ### Attrition Insights
 - Attrition distribution across departments and job roles
 - Filters by gender, education, and business travel
 - Tooltip showing deeper attrition causes by job level and age
 
-  ### Satisfaction & Performance
+---
+
+### Satisfaction & Performance
 - Job satisfaction vs monthly income
 - Department-wise comparison
 - Performance score distribution
 - Tooltip showing satisfaction by overtime and education level
 
+---  
+
 ### Tenure & Training Analysis
 - Years at company vs performance
 - Years since last promotion by role
 - Training frequency and its link to performance
+
+
+---
 
 ### Workforce KPIs & Departmental Insights
 - Custom DAX metrics:
@@ -47,10 +59,18 @@ The dashboard consists of *5 interactive pages*:
 - Highest & lowest satisfaction departments
 - Work-life balance by department
 
+---
 
+## Files Included
 
+-`HR-Analytics-Dashboard.pbix`- Power BI
+- `README.md` – This file
 
-Author Meghna
+---
+
+## Contact
+
+For questions or suggestions, feel free to connect via LinkedIn or GitHub! https://www.linkedin.com/in/meghna-dey-a5906a305?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFuubh9VsQxaCAlCIJ8D4xQ%3D%3D
 
 
 
