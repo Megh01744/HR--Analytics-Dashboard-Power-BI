@@ -35,7 +35,7 @@ The dashboard consists of *5 interactive pages*:
 
 ---
 
-### Satisfaction & Performance
+### Satisfaction & Income Analysis
 - Job satisfaction vs monthly income
 - Department-wise comparison
 - Performance score distribution
